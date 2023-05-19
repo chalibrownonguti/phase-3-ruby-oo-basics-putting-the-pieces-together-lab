@@ -6,8 +6,8 @@ class Book
     end
   
     def turn_page
-      # Implement the logic for turning the page here
-    end
+        puts "Flipping the page...wow, you read fast!"
+      end
   end
   
 
